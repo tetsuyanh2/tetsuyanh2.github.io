@@ -1,4 +1,5 @@
 # tetsuyanh2.github.io
+https://tetsuyanh2.github.io/
 
 ## markdown-samples
 
@@ -9,8 +10,8 @@
 
 ### ordered-list
 1. 111
-2. 222
-3. 333
+1. 222
+1. 333
 
 ### link
 [google search](https:google.com)
