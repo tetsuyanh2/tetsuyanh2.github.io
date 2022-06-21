@@ -31,3 +31,4 @@ hoge
 fuga
 ばか
 aho
+manuke
